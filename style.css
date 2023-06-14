@@ -1,0 +1,29 @@
+*{
+    font-family: 'Times New Roman', Courier, monospace;
+    font-size: 15px;
+}
+html {
+    background-color: hsl(#568198);
+}
+#apps {
+    width: 760px;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #475f85;
+}
+h1 {
+    color: rgb(57, 60, 62);
+    font-size: 30px;
+    text-align:center;
+}
+.first{
+    width: 760px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #33555c;  
+}
